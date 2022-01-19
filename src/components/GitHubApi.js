@@ -53,7 +53,7 @@ class GitHubApi extends React.Component
          catch((error)=>
          {
               console.log(error)
-              console.log("this line is  use for error message")
+              console.log("This line is  use for error message")
          })
          
      }
