@@ -1,6 +1,6 @@
 import React from 'react';
 
-class New extends React.Component
+class New2 extends React.Component
 {
     constructor(props)
     {
@@ -10,10 +10,10 @@ class New extends React.Component
     {
         return(
             <React.Fragment>
-                <h1>Hello This is New file add in to Component</h1>
+                <h1>Hello This is New2  file add in to Component</h1>
             </React.Fragment>
         )
     }
 }
 
-export default New
+export default New2
