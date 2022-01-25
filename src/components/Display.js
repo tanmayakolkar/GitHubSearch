@@ -10,7 +10,7 @@ class Display extends React.Component
     {
         return(
             <React.Fragment>
-                <h1>Hello This is Display Component</h1>
+                <h1>Hello This is Display Component whow</h1>
             </React.Fragment>
         )
     }
