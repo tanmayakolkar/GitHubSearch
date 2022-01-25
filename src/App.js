@@ -7,9 +7,7 @@ import GitHubApi from "./components/GitHubApi";
 
 
 function App() {
-
-  
-  return (
+return (
     <React.Fragment>
     <GitHubApi/>
     </React.Fragment>
